@@ -1,0 +1,501 @@
+product_id,product_name,category,sub_category,price,cost
+P0001,Fragrance Product 001,Beauty,Fragrance,2221.48,1437.36
+P0002,Accessories Product 002,Electronics,Accessories,513.95,315.96
+P0003,Home Decor Product 003,Home & Kitchen,Home Decor,1017.51,526.91
+P0004,Bags Product 004,Fashion,Bags,24509.29,20626.09
+P0005,Appliances Product 005,Home & Kitchen,Appliances,1277.7,870.84
+P0006,Kitchen Product 006,Home & Kitchen,Kitchen,2085.89,1628.87
+P0007,Sportswear Product 007,Sports,Sportswear,2087.52,1153.04
+P0008,Skincare Product 008,Beauty,Skincare,2014.16,1320.33
+P0009,Footwear Product 009,Fashion,Footwear,745.83,572.62
+P0010,Skincare Product 010,Beauty,Skincare,800.98,467.01
+P0011,Sportswear Product 011,Sports,Sportswear,366.55,188.05
+P0012,Accessories Product 012,Electronics,Accessories,2155.18,1451.54
+P0013,Kitchen Product 013,Home & Kitchen,Kitchen,6213.54,3666.92
+P0014,Haircare Product 014,Beauty,Haircare,521.11,371.7
+P0015,Skincare Product 015,Beauty,Skincare,2275.44,1200.99
+P0016,Women Clothing Product 016,Fashion,Women Clothing,262.26,204.46
+P0017,Skincare Product 017,Beauty,Skincare,3788.75,2632.74
+P0018,Women Clothing Product 018,Fashion,Women Clothing,766.44,445.6
+P0019,Sportswear Product 019,Sports,Sportswear,836.88,514.07
+P0020,Home Decor Product 020,Home & Kitchen,Home Decor,3651.62,2258.98
+P0021,Appliances Product 021,Home & Kitchen,Unknown,553.83,344.45
+P0022,Audio Product 022,Electronics,Audio,1878.17,1409.4
+P0023,Home Decor Product 023,Home & Kitchen,Home Decor,4138.83,3269.99
+P0024,Women Clothing Product 024,Fashion,Women Clothing,1887.37,1190.06
+P0025,Smartphones Product 025,Electronics,Smartphones,6316.68,5063.21
+P0026,Audio Product 026,Electronics,Audio,1402.03,893.48
+P0027,Outdoor Product 027,Sports,Outdoor,7461.34,5030.55
+P0028,Kitchen Product 028,Home & Kitchen,Kitchen,41867.45,33342.92
+P0029,Fitness Product 029,Sports,Fitness,1061.1,658.26
+P0030,Laptops Product 030,Electronics,Laptops,2737.23,2114.02
+P0031,Fragrance Product 031,Beauty,Fragrance,6781.06,5002.24
+P0032,Kitchen Product 032,Home & Kitchen,Kitchen,5344.27,3180.9
+P0033,Women Clothing Product 033,Fashion,Women Clothing,640.81,434.78
+P0034,Footwear Product 034,Fashion,Footwear,1194.41,888.56
+P0035,Footwear Product 035,Fashion,Footwear,2616.7,2009.51
+P0036,Furniture Product 036,Home & Kitchen,Furniture,41709.71,24896.58
+P0037,Appliances Product 037,Home & Kitchen,Appliances,369.34,185.9
+P0038,Makeup Product 038,Beauty,Makeup,56272.22,36954.33
+P0039,Footwear Product 039,Fashion,Footwear,622.9,497.37
+P0040,Equipment Product 040,Sports,Equipment,2156.77,1466.6
+P0041,Women Clothing Product 041,Fashion,Women Clothing,8184.73,6877.78
+P0042,Equipment Product 042,Sports,Equipment,17353.98,11158.56
+P0043,Men Clothing Product 043,Fashion,Men Clothing,23038.21,15832.69
+P0044,Fragrance Product 044,Beauty,Fragrance,59238.58,39052.49
+P0045,Fitness Product 045,Sports,Fitness,448.84,262.83
+P0046,Accessories Product 046,Electronics,Accessories,2162.01,1519.52
+P0047,Makeup Product 047,Beauty,Makeup,1187.32,999.84
+P0048,Smartphones Product 048,Electronics,Smartphones,38046.26,29268.68
+P0049,Makeup Product 049,Beauty,Makeup,1929.71,1376.42
+P0050,Home Decor Product 050,Home & Kitchen,Home Decor,8546.11,5641.04
+P0051,Home Decor Product 051,Home & Kitchen,Home Decor,2625.06,1426.98
+P0052,Accessories Product 052,Electronics,Accessories,20564.08,14107.02
+P0053,Haircare Product 053,Beauty,Haircare,758.66,481.97
+P0054,Men Clothing Product 054,Fashion,Men Clothing,915.61,561.16
+P0055,Sportswear Product 055,Sports,Sportswear,1049.0,572.71
+P0056,Outdoor Product 056,Sports,Outdoor,9462.21,7386.71
+P0057,Makeup Product 057,Beauty,Makeup,2203.21,1844.19
+P0058,Kitchen Product 058,Home & Kitchen,Kitchen,3095.61,1834.1
+P0059,Furniture Product 059,Home & Kitchen,Furniture,295.22,157.69
+P0060,Men Clothing Product 060,Fashion,Men Clothing,1173.8,720.4
+P0061,Smartphones Product 061,Electronics,Smartphones,58728.26,37682.81
+P0062,Skincare Product 062,Beauty,Skincare,27641.39,18484.54
+P0063,Skincare Product 063,Beauty,Skincare,731.11,535.52
+P0064,Haircare Product 064,Beauty,Haircare,1182.06,894.85
+P0065,Equipment Product 065,Sports,Equipment,937.04,512.61
+P0066,Fragrance Product 066,Beauty,Fragrance,1257.1,881.45
+P0067,Skincare Product 067,Beauty,Skincare,1109.82,799.85
+P0068,Haircare Product 068,Beauty,Haircare,1256.22,946.25
+P0069,Equipment Product 069,Sports,Equipment,1542.85,806.97
+P0070,Skincare Product 070,Beauty,Skincare,1249.39,1028.47
+P0071,Makeup Product 071,Beauty,Makeup,1557.87,1103.64
+P0072,Laptops Product 072,Electronics,Laptops,1219.15,986.56
+P0073,Haircare Product 073,Beauty,Haircare,4141.58,3201.42
+P0074,Skincare Product 074,Beauty,Skincare,10368.98,6074.28
+P0075,Accessories Product 075,Electronics,Accessories,1749.09,1311.11
+P0076,Appliances Product 076,Home & Kitchen,Appliances,14654.36,7791.89
+P0077,Makeup Product 077,Beauty,Makeup,27183.7,20774.56
+P0078,Equipment Product 078,Sports,Equipment,2405.45,1616.32
+P0079,Skincare Product 079,Beauty,Skincare,28501.73,14397.3
+P0080,Appliances Product 080,Home & Kitchen,Appliances,412.72,261.04
+P0081,Men Clothing Product 081,Fashion,Men Clothing,3108.0,2292.08
+P0082,Laptops Product 082,Electronics,Laptops,728.72,591.7
+P0083,Footwear Product 083,Fashion,Footwear,4107.0,2183.72
+P0084,Audio Product 084,Electronics,Audio,486.41,372.14
+P0085,Women Clothing Product 085,Fashion,Women Clothing,25792.46,20805.5
+P0086,Outdoor Product 086,Sports,Outdoor,935.33,736.77
+P0087,Fragrance Product 087,Beauty,Fragrance,300.28,161.07
+P0088,Fragrance Product 088,Beauty,Fragrance,499.34,368.91
+P0089,Footwear Product 089,Fashion,Footwear,1042.45,834.46
+P0090,Accessories Product 090,Electronics,Accessories,1508.51,845.63
+P0091,Fitness Product 091,Sports,Fitness,2512.11,1449.08
+P0092,Kitchen Product 092,Home & Kitchen,Kitchen,2373.18,1480.53
+P0093,Outdoor Product 093,Sports,Outdoor,14198.8,7381.2
+P0094,Home Decor Product 094,Home & Kitchen,Home Decor,55697.66,28921.14
+P0095,Laptops Product 095,Electronics,Laptops,789.39,422.42
+P0096,Accessories Product 096,Electronics,Accessories,44145.07,33499.25
+P0097,Haircare Product 097,Beauty,Haircare,1186.2,828.88
+P0098,Kitchen Product 098,Home & Kitchen,Kitchen,1840.64,1188.05
+P0099,Appliances Product 099,Home & Kitchen,Appliances,15652.05,11886.72
+P0100,Footwear Product 100,Fashion,Footwear,14238.78,9737.82
+P0101,Sportswear Product 101,Sports,Sportswear,1539.79,948.61
+P0102,Kitchen Product 102,Home & Kitchen,Kitchen,1677.27,973.54
+P0103,Home Decor Product 103,Home & Kitchen,Home Decor,53700.49,32767.66
+P0104,Footwear Product 104,Fashion,Footwear,3379.66,2585.2
+P0105,Accessories Product 105,Electronics,Accessories,735.98,512.84
+P0106,Equipment Product 106,Sports,Equipment,4136.32,3120.69
+P0107,Makeup Product 107,Beauty,Makeup,1050.76,824.53
+P0108,Haircare Product 108,Beauty,Haircare,2823.68,1578.83
+P0109,Equipment Product 109,Sports,Equipment,378.54,311.11
+P0110,Haircare Product 110,Beauty,Haircare,331.8,260.68
+P0111,Skincare Product 111,Beauty,Skincare,16996.49,9496.54
+P0112,Skincare Product 112,Beauty,Skincare,27719.85,19587.61
+P0113,Kitchen Product 113,Home & Kitchen,Kitchen,689.39,570.6
+P0114,Fitness Product 114,Sports,Fitness,6369.07,4065.47
+P0115,Bags Product 115,Fashion,Bags,487.04,271.95
+P0116,Haircare Product 116,Beauty,Haircare,30307.3,23358.58
+P0117,Haircare Product 117,Beauty,Haircare,867.75,643.51
+P0118,Sportswear Product 118,Sports,Sportswear,665.22,367.82
+P0119,Sportswear Product 119,Sports,Sportswear,1722.52,1072.47
+P0120,Appliances Product 120,Home & Kitchen,Appliances,3967.34,2788.79
+P0121,Furniture Product 121,Home & Kitchen,Furniture,38144.64,26587.61
+P0122,Sportswear Product 122,Sports,Sportswear,1224.32,817.02
+P0123,Sportswear Product 123,Sports,Sportswear,465.89,348.15
+P0124,Skincare Product 124,Beauty,Skincare,47376.71,34349.51
+P0125,Laptops Product 125,Electronics,Laptops,22069.6,14306.55
+P0126,Equipment Product 126,Sports,Equipment,1930.05,1587.41
+P0127,Outdoor Product 127,Sports,Outdoor,7740.06,6116.95
+P0128,Fragrance Product 128,Beauty,Fragrance,43166.92,30124.05
+P0129,Appliances Product 129,Home & Kitchen,Appliances,2319.56,1730.26
+P0130,Kitchen Product 130,Home & Kitchen,Kitchen,5536.61,2913.78
+P0131,Footwear Product 131,Fashion,Footwear,10686.98,7209.0
+P0132,Bags Product 132,Fashion,Bags,44561.15,32622.58
+P0133,Men Clothing Product 133,Fashion,Men Clothing,2233.69,1386.08
+P0134,Laptops Product 134,Electronics,Laptops,28242.38,19761.38
+P0135,Furniture Product 135,Home & Kitchen,Furniture,749.75,515.69
+P0136,Haircare Product 136,Beauty,Haircare,487.17,373.93
+P0137,Appliances Product 137,Home & Kitchen,Appliances,14168.04,7637.95
+P0138,Kitchen Product 138,Home & Kitchen,Kitchen,23653.68,12185.17
+P0139,Men Clothing Product 139,Fashion,Men Clothing,400.3,335.9
+P0140,Men Clothing Product 140,Fashion,Men Clothing,6520.36,4848.32
+P0141,Haircare Product 141,Beauty,Haircare,2239.37,1386.83
+P0142,Bags Product 142,Fashion,Bags,1218.35,962.83
+P0143,Men Clothing Product 143,Fashion,Men Clothing,3580.52,1972.96
+P0144,Home Decor Product 144,Home & Kitchen,Home Decor,1072.71,580.69
+P0145,Fitness Product 145,Sports,Fitness,1100.58,917.39
+P0146,Outdoor Product 146,Sports,Outdoor,1143.39,727.81
+P0147,Women Clothing Product 147,Fashion,Women Clothing,40976.48,33324.76
+P0148,Equipment Product 148,Sports,Equipment,19839.55,15456.62
+P0149,Fitness Product 149,Sports,Fitness,19302.4,12430.13
+P0150,Women Clothing Product 150,Fashion,Women Clothing,332.6,202.18
+P0151,Sportswear Product 151,Sports,Sportswear,2452.36,1835.3
+P0152,Laptops Product 152,Electronics,Laptops,1368.76,823.27
+P0153,Fragrance Product 153,Beauty,Fragrance,53237.26,28822.9
+P0154,Home Decor Product 154,Home & Kitchen,Home Decor,20668.37,16469.1
+P0155,Women Clothing Product 155,Fashion,Women Clothing,5761.42,4393.59
+P0156,Laptops Product 156,Electronics,Laptops,1509.01,1166.81
+P0157,Kitchen Product 157,Home & Kitchen,Kitchen,5355.23,3808.79
+P0158,Men Clothing Product 158,Fashion,Men Clothing,24323.4,15645.92
+P0159,Outdoor Product 159,Sports,Outdoor,44698.32,24085.57
+P0160,Men Clothing Product 160,Fashion,Men Clothing,1481.54,1051.71
+P0161,Laptops Product 161,Electronics,Laptops,30912.64,25226.03
+P0162,Equipment Product 162,Sports,Equipment,1803.31,961.01
+P0163,Outdoor Product 163,Sports,Outdoor,1439.63,1088.4
+P0164,Haircare Product 164,Beauty,Haircare,3262.09,2712.68
+P0165,Kitchen Product 165,Home & Kitchen,Kitchen,1862.7,1550.06
+P0166,Bags Product 166,Fashion,Bags,1458.1,1087.64
+P0167,Fitness Product 167,Sports,Fitness,3698.11,2150.33
+P0168,Audio Product 168,Electronics,Audio,4535.55,3125.25
+P0169,Makeup Product 169,Beauty,Makeup,54527.7,29935.33
+P0170,Home Decor Product 170,Home & Kitchen,Home Decor,31666.18,16653.07
+P0171,Sportswear Product 171,Sports,Sportswear,984.75,605.31
+P0172,Haircare Product 172,Beauty,Haircare,2082.35,1452.89
+P0173,Appliances Product 173,Home & Kitchen,Appliances,17720.53,14973.0
+P0174,Home Decor Product 174,Home & Kitchen,Home Decor,27835.67,20460.06
+P0175,Footwear Product 175,Fashion,Footwear,12731.92,8884.97
+P0176,Haircare Product 176,Beauty,Haircare,922.46,622.1
+P0177,Footwear Product 177,Fashion,Footwear,1206.8,870.69
+P0178,Kitchen Product 178,Home & Kitchen,Kitchen,55283.9,35332.03
+P0179,Accessories Product 179,Electronics,Accessories,557.58,388.18
+P0180,Women Clothing Product 180,Fashion,Women Clothing,846.25,492.07
+P0181,Sportswear Product 181,Sports,Sportswear,2757.39,2318.28
+P0182,Sportswear Product 182,Sports,Sportswear,274.56,218.99
+P0183,Equipment Product 183,Sports,Equipment,1116.66,582.61
+P0184,Sportswear Product 184,Sports,Sportswear,13360.04,9653.17
+P0185,Fragrance Product 185,Beauty,Fragrance,2348.45,1980.41
+P0186,Home Decor Product 186,Home & Kitchen,Home Decor,3655.57,2144.24
+P0187,Fitness Product 187,Sports,Fitness,7734.02,4149.95
+P0188,Bags Product 188,Fashion,Bags,1304.41,806.86
+P0189,Makeup Product 189,Beauty,Makeup,2001.46,1078.44
+P0190,Sportswear Product 190,Sports,Sportswear,538.75,318.06
+P0191,Fragrance Product 191,Beauty,Fragrance,824.8,490.57
+P0192,Haircare Product 192,Beauty,Haircare,1517.14,1156.67
+P0193,Accessories Product 193,Electronics,Accessories,5119.8,3906.39
+P0194,Bags Product 194,Fashion,Bags,1575.31,1168.32
+P0195,Men Clothing Product 195,Fashion,Men Clothing,10292.55,7887.78
+P0196,Equipment Product 196,Sports,Equipment,11656.68,8690.76
+P0197,Makeup Product 197,Beauty,Makeup,257.53,182.53
+P0198,Equipment Product 198,Sports,Equipment,5966.16,3400.92
+P0199,Footwear Product 199,Fashion,Footwear,666.04,369.67
+P0200,Smartphones Product 200,Electronics,Smartphones,14690.34,7774.11
+P0201,Skincare Product 201,Beauty,Skincare,26384.4,22106.61
+P0202,Fragrance Product 202,Beauty,Fragrance,636.25,381.24
+P0203,Bags Product 203,Fashion,Bags,6941.86,5039.61
+P0204,Women Clothing Product 204,Fashion,Women Clothing,270.24,195.14
+P0205,Kitchen Product 205,Home & Kitchen,Kitchen,3204.49,1633.01
+P0206,Laptops Product 206,Electronics,Laptops,457.31,373.75
+P0207,Sportswear Product 207,Sports,Sportswear,853.02,515.01
+P0208,Women Clothing Product 208,Fashion,Women Clothing,7158.46,4829.43
+P0209,Laptops Product 209,Electronics,Laptops,42626.33,31105.36
+P0210,Sportswear Product 210,Sports,Sportswear,692.05,566.98
+P0211,Outdoor Product 211,Sports,Unknown,1172.74,967.17
+P0212,Men Clothing Product 212,Fashion,Men Clothing,1982.97,1160.15
+P0213,Bags Product 213,Fashion,Bags,654.12,340.82
+P0214,Fragrance Product 214,Beauty,Fragrance,750.29,574.79
+P0215,Fitness Product 215,Sports,Fitness,22760.18,16356.77
+P0216,Women Clothing Product 216,Fashion,Women Clothing,14968.28,9386.46
+P0217,Outdoor Product 217,Sports,Outdoor,27206.4,13899.8
+P0218,Fragrance Product 218,Beauty,Fragrance,7588.13,6261.18
+P0219,Haircare Product 219,Beauty,Haircare,1529.74,938.6
+P0220,Women Clothing Product 220,Fashion,Women Clothing,1748.58,1173.95
+P0221,Bags Product 221,Fashion,Bags,703.03,564.39
+P0222,Appliances Product 222,Home & Kitchen,Appliances,726.63,592.56
+P0223,Skincare Product 223,Beauty,Skincare,4788.05,3628.94
+P0224,Footwear Product 224,Fashion,Footwear,45439.97,37328.97
+P0225,Skincare Product 225,Beauty,Skincare,2755.46,1658.6
+P0226,Equipment Product 226,Sports,Equipment,50755.26,27912.61
+P0227,Fragrance Product 227,Beauty,Fragrance,859.27,459.47
+P0228,Equipment Product 228,Sports,Equipment,22194.29,18699.12
+P0229,Smartphones Product 229,Electronics,Smartphones,50444.39,39933.27
+P0230,Fragrance Product 230,Beauty,Fragrance,5030.45,3141.55
+P0231,Men Clothing Product 231,Fashion,Men Clothing,4433.33,2454.75
+P0232,Furniture Product 232,Home & Kitchen,Furniture,769.0,470.38
+P0233,Bags Product 233,Fashion,Bags,14294.54,10915.77
+P0234,Smartphones Product 234,Electronics,Smartphones,2137.17,1443.99
+P0235,Makeup Product 235,Beauty,Makeup,35484.17,21045.42
+P0236,Haircare Product 236,Beauty,Haircare,305.07,230.54
+P0237,Kitchen Product 237,Home & Kitchen,Kitchen,33372.82,25356.8
+P0238,Kitchen Product 238,Home & Kitchen,Kitchen,11307.77,6857.87
+P0239,Fitness Product 239,Sports,Fitness,6315.78,4620.61
+P0240,Skincare Product 240,Beauty,Skincare,2836.77,1890.04
+P0241,Makeup Product 241,Beauty,Makeup,249.4,162.07
+P0242,Laptops Product 242,Electronics,Laptops,3997.68,2272.18
+P0243,Outdoor Product 243,Sports,Outdoor,1507.96,830.59
+P0244,Footwear Product 244,Fashion,Footwear,330.32,176.23
+P0245,Women Clothing Product 245,Fashion,Women Clothing,1082.72,892.28
+P0246,Bags Product 246,Fashion,Bags,1592.72,825.32
+P0247,Accessories Product 247,Electronics,Accessories,1145.5,640.96
+P0248,Men Clothing Product 248,Fashion,Men Clothing,2340.7,1253.98
+P0249,Footwear Product 249,Fashion,Footwear,3213.44,2446.2
+P0250,Bags Product 250,Fashion,Bags,19616.81,9938.51
+P0251,Outdoor Product 251,Sports,Outdoor,7516.78,6142.11
+P0252,Sportswear Product 252,Sports,Sportswear,1238.3,843.53
+P0253,Appliances Product 253,Home & Kitchen,Appliances,6467.57,4055.29
+P0254,Women Clothing Product 254,Fashion,Women Clothing,19575.47,11431.0
+P0255,Smartphones Product 255,Electronics,Smartphones,2334.66,1381.27
+P0256,Skincare Product 256,Beauty,Skincare,1340.67,935.65
+P0257,Bags Product 257,Fashion,Bags,6170.04,4831.07
+P0258,Furniture Product 258,Home & Kitchen,Furniture,1538.5,781.84
+P0259,Footwear Product 259,Fashion,Footwear,2026.88,1344.97
+P0260,Appliances Product 260,Home & Kitchen,Appliances,13063.8,9119.96
+P0261,Men Clothing Product 261,Fashion,Men Clothing,309.26,164.6
+P0262,Women Clothing Product 262,Fashion,Women Clothing,1477.11,1069.64
+P0263,Home Decor Product 263,Home & Kitchen,Home Decor,2111.79,1333.3
+P0264,Appliances Product 264,Home & Kitchen,Appliances,503.48,348.51
+P0265,Equipment Product 265,Sports,Equipment,4366.08,2439.13
+P0266,Furniture Product 266,Home & Kitchen,Furniture,5324.42,3906.13
+P0267,Smartphones Product 267,Electronics,Smartphones,925.93,650.82
+P0268,Kitchen Product 268,Home & Kitchen,Kitchen,442.37,263.61
+P0269,Outdoor Product 269,Sports,Outdoor,1020.48,792.25
+P0270,Smartphones Product 270,Electronics,Smartphones,910.01,569.16
+P0271,Men Clothing Product 271,Fashion,Men Clothing,6601.9,3511.31
+P0272,Fragrance Product 272,Beauty,Fragrance,2632.11,1583.66
+P0273,Skincare Product 273,Beauty,Skincare,795.86,443.99
+P0274,Women Clothing Product 274,Fashion,Women Clothing,49610.04,41738.55
+P0275,Outdoor Product 275,Sports,Outdoor,253.55,181.86
+P0276,Furniture Product 276,Home & Kitchen,Furniture,7190.17,3688.87
+P0277,Equipment Product 277,Sports,Equipment,1152.38,918.97
+P0278,Footwear Product 278,Fashion,Footwear,40971.93,27816.29
+P0279,Kitchen Product 279,Home & Kitchen,Kitchen,2282.91,1421.02
+P0280,Sportswear Product 280,Sports,Sportswear,1675.72,1167.24
+P0281,Audio Product 281,Electronics,Audio,56642.72,47845.44
+P0282,Furniture Product 282,Home & Kitchen,Furniture,31404.57,26513.25
+P0283,Kitchen Product 283,Home & Kitchen,Kitchen,55510.24,28657.02
+P0284,Equipment Product 284,Sports,Equipment,1036.9,545.28
+P0285,Laptops Product 285,Electronics,Laptops,26941.99,16815.64
+P0286,Haircare Product 286,Beauty,Haircare,57040.57,41372.48
+P0287,Fitness Product 287,Sports,Fitness,23897.23,17967.36
+P0288,Women Clothing Product 288,Fashion,Women Clothing,16003.12,12498.39
+P0289,Kitchen Product 289,Home & Kitchen,Kitchen,19514.61,13966.6
+P0290,Fragrance Product 290,Beauty,Fragrance,554.76,315.83
+P0291,Fitness Product 291,Sports,Fitness,18361.75,14483.58
+P0292,Women Clothing Product 292,Fashion,Women Clothing,1730.94,999.82
+P0293,Haircare Product 293,Beauty,Haircare,25902.61,13111.71
+P0294,Women Clothing Product 294,Fashion,Women Clothing,7542.56,6051.03
+P0295,Bags Product 295,Fashion,Bags,5850.73,4788.05
+P0296,Women Clothing Product 296,Fashion,Women Clothing,346.42,278.31
+P0297,Bags Product 297,Fashion,Bags,1396.46,781.3
+P0298,Bags Product 298,Fashion,Bags,531.51,374.65
+P0299,Women Clothing Product 299,Fashion,Women Clothing,1421.67,751.08
+P0300,Home Decor Product 300,Home & Kitchen,Home Decor,1511.88,1060.29
+P0301,Kitchen Product 301,Home & Kitchen,Kitchen,2141.28,1483.59
+P0302,Laptops Product 302,Electronics,Laptops,2111.29,1661.81
+P0303,Kitchen Product 303,Home & Kitchen,Kitchen,5181.97,3512.49
+P0304,Fitness Product 304,Sports,Fitness,24265.75,18947.41
+P0305,Furniture Product 305,Home & Kitchen,Furniture,1088.95,672.62
+P0306,Accessories Product 306,Electronics,Accessories,3504.79,2475.11
+P0307,Haircare Product 307,Beauty,Haircare,18668.48,10965.88
+P0308,Fragrance Product 308,Beauty,Fragrance,9828.42,5449.16
+P0309,Smartphones Product 309,Electronics,Smartphones,8852.86,4427.18
+P0310,Footwear Product 310,Fashion,Footwear,4838.53,2813.86
+P0311,Outdoor Product 311,Sports,Outdoor,27175.09,17893.83
+P0312,Fitness Product 312,Sports,Fitness,18439.02,14414.59
+P0313,Makeup Product 313,Beauty,Makeup,10633.64,6113.61
+P0314,Accessories Product 314,Electronics,Accessories,1071.23,729.48
+P0315,Smartphones Product 315,Electronics,Smartphones,965.84,682.89
+P0316,Haircare Product 316,Beauty,Haircare,693.55,399.69
+P0317,Fitness Product 317,Sports,Fitness,3755.68,1906.51
+P0318,Laptops Product 318,Electronics,Laptops,1980.12,1059.91
+P0319,Men Clothing Product 319,Fashion,Men Clothing,1991.66,1005.91
+P0320,Footwear Product 320,Fashion,Footwear,1222.01,868.12
+P0321,Appliances Product 321,Home & Kitchen,Appliances,1946.49,1380.0
+P0322,Appliances Product 322,Home & Kitchen,Appliances,59666.87,30382.46
+P0323,Home Decor Product 323,Home & Kitchen,Home Decor,2651.04,1639.71
+P0324,Men Clothing Product 324,Fashion,Men Clothing,1118.5,921.03
+P0325,Fitness Product 325,Sports,Fitness,1568.87,1051.77
+P0326,Fragrance Product 326,Beauty,Fragrance,11070.5,8259.43
+P0327,Laptops Product 327,Electronics,Laptops,14900.19,9644.11
+P0328,Kitchen Product 328,Home & Kitchen,Kitchen,8216.24,6901.57
+P0329,Laptops Product 329,Electronics,Laptops,15448.51,11346.97
+P0330,Appliances Product 330,Home & Kitchen,Appliances,681.81,433.84
+P0331,Audio Product 331,Electronics,Audio,23081.69,13286.15
+P0332,Kitchen Product 332,Home & Kitchen,Kitchen,7929.99,6177.24
+P0333,Women Clothing Product 333,Fashion,Women Clothing,13799.36,10542.52
+P0334,Fitness Product 334,Sports,Fitness,10521.47,5392.31
+P0335,Laptops Product 335,Electronics,Laptops,8417.61,5377.39
+P0336,Haircare Product 336,Beauty,Haircare,20023.01,15635.88
+P0337,Sportswear Product 337,Sports,Sportswear,1754.01,1126.55
+P0338,Audio Product 338,Electronics,Audio,1804.55,1179.12
+P0339,Kitchen Product 339,Home & Kitchen,Kitchen,47694.64,35917.05
+P0340,Women Clothing Product 340,Fashion,Women Clothing,32636.03,26880.4
+P0341,Audio Product 341,Electronics,Audio,292.12,185.52
+P0342,Footwear Product 342,Fashion,Footwear,817.78,656.17
+P0343,Appliances Product 343,Home & Kitchen,Appliances,818.65,554.65
+P0344,Fitness Product 344,Sports,Fitness,4557.36,3168.99
+P0345,Women Clothing Product 345,Fashion,Women Clothing,305.98,160.89
+P0346,Kitchen Product 346,Home & Kitchen,Kitchen,1031.36,778.43
+P0347,Fragrance Product 347,Beauty,Fragrance,4872.63,2535.33
+P0348,Accessories Product 348,Electronics,Accessories,753.48,547.48
+P0349,Bags Product 349,Fashion,Bags,1332.36,899.26
+P0350,Home Decor Product 350,Home & Kitchen,Home Decor,52392.94,26516.62
+P0351,Accessories Product 351,Electronics,Accessories,1544.55,990.93
+P0352,Audio Product 352,Electronics,Audio,26913.75,15281.07
+P0353,Laptops Product 353,Electronics,Laptops,38873.51,31774.58
+P0354,Furniture Product 354,Home & Kitchen,Furniture,663.27,514.17
+P0355,Smartphones Product 355,Electronics,Smartphones,30819.58,22890.27
+P0356,Fitness Product 356,Sports,Fitness,1479.73,888.09
+P0357,Footwear Product 357,Fashion,Footwear,440.52,327.87
+P0358,Smartphones Product 358,Electronics,Smartphones,3913.07,2849.73
+P0359,Laptops Product 359,Electronics,Laptops,5454.98,2777.34
+P0360,Skincare Product 360,Beauty,Skincare,28814.32,17897.85
+P0361,Home Decor Product 361,Home & Kitchen,Home Decor,55858.93,30272.9
+P0362,Equipment Product 362,Sports,Equipment,20271.5,15909.25
+P0363,Appliances Product 363,Home & Kitchen,Appliances,4154.64,2832.71
+P0364,Makeup Product 364,Beauty,Makeup,7613.44,5817.33
+P0365,Smartphones Product 365,Electronics,Smartphones,307.23,162.34
+P0366,Accessories Product 366,Electronics,Accessories,1957.78,1274.02
+P0367,Fitness Product 367,Sports,Fitness,614.77,367.1
+P0368,Haircare Product 368,Beauty,Haircare,16305.93,10002.42
+P0369,Footwear Product 369,Fashion,Footwear,12732.55,7336.04
+P0370,Furniture Product 370,Home & Kitchen,Furniture,752.51,583.64
+P0371,Sportswear Product 371,Sports,Sportswear,33964.89,25320.15
+P0372,Women Clothing Product 372,Fashion,Women Clothing,1030.81,847.28
+P0373,Fitness Product 373,Sports,Fitness,37051.39,28569.15
+P0374,Fitness Product 374,Sports,Fitness,12543.35,8837.48
+P0375,Equipment Product 375,Sports,Equipment,3976.93,2987.09
+P0376,Men Clothing Product 376,Fashion,Men Clothing,36504.09,27544.46
+P0377,Footwear Product 377,Fashion,Footwear,404.57,248.26
+P0378,Haircare Product 378,Beauty,Haircare,4244.37,2765.01
+P0379,Accessories Product 379,Electronics,Accessories,770.51,505.36
+P0380,Footwear Product 380,Fashion,Footwear,1794.34,1051.4
+P0381,Outdoor Product 381,Sports,Outdoor,11957.49,6118.88
+P0382,Furniture Product 382,Home & Kitchen,Furniture,2881.37,1937.77
+P0383,Laptops Product 383,Electronics,Laptops,1441.34,782.29
+P0384,Sportswear Product 384,Sports,Sportswear,4720.88,2427.25
+P0385,Accessories Product 385,Electronics,Accessories,2810.29,1522.26
+P0386,Accessories Product 386,Electronics,Accessories,748.87,529.98
+P0387,Kitchen Product 387,Home & Kitchen,Kitchen,4102.62,2359.09
+P0388,Smartphones Product 388,Electronics,Smartphones,32427.23,19688.31
+P0389,Makeup Product 389,Beauty,Makeup,1059.78,862.67
+P0390,Audio Product 390,Electronics,Audio,892.03,699.3
+P0391,Audio Product 391,Electronics,Audio,465.53,246.25
+P0392,Men Clothing Product 392,Fashion,Men Clothing,2158.68,1497.83
+P0393,Home Decor Product 393,Home & Kitchen,Home Decor,2067.81,1235.34
+P0394,Bags Product 394,Fashion,Bags,1018.48,802.22
+P0395,Home Decor Product 395,Home & Kitchen,Home Decor,35468.55,25686.89
+P0396,Women Clothing Product 396,Fashion,Women Clothing,31007.81,25302.94
+P0397,Haircare Product 397,Beauty,Haircare,726.5,539.97
+P0398,Men Clothing Product 398,Fashion,Men Clothing,906.48,460.71
+P0399,Smartphones Product 399,Electronics,Smartphones,1978.06,1145.37
+P0400,Bags Product 400,Fashion,Bags,783.87,661.41
+P0401,Makeup Product 401,Beauty,Makeup,1273.49,682.9
+P0402,Kitchen Product 402,Home & Kitchen,Kitchen,1263.86,662.99
+P0403,Fragrance Product 403,Beauty,Fragrance,1315.61,678.42
+P0404,Fitness Product 404,Sports,Fitness,2441.23,1413.64
+P0405,Fragrance Product 405,Beauty,Fragrance,2303.99,1649.71
+P0406,Equipment Product 406,Sports,Equipment,284.29,167.58
+P0407,Home Decor Product 407,Home & Kitchen,Home Decor,12334.48,9222.83
+P0408,Fragrance Product 408,Beauty,Fragrance,12411.5,9457.83
+P0409,Smartphones Product 409,Electronics,Smartphones,388.5,313.2
+P0410,Women Clothing Product 410,Fashion,Women Clothing,15658.55,11816.69
+P0411,Men Clothing Product 411,Fashion,Men Clothing,3236.93,2440.57
+P0412,Fragrance Product 412,Beauty,Fragrance,2807.84,1436.59
+P0413,Smartphones Product 413,Electronics,Smartphones,1178.07,744.87
+P0414,Outdoor Product 414,Sports,Outdoor,12075.03,7038.68
+P0415,Men Clothing Product 415,Fashion,Men Clothing,2345.44,1230.95
+P0416,Haircare Product 416,Beauty,Haircare,1496.72,1186.7
+P0417,Skincare Product 417,Beauty,Skincare,451.39,326.11
+P0418,Skincare Product 418,Beauty,Skincare,2097.91,1684.8
+P0419,Fitness Product 419,Sports,Fitness,625.22,351.17
+P0420,Appliances Product 420,Home & Kitchen,Appliances,24938.24,14695.87
+P0421,Fragrance Product 421,Beauty,Fragrance,55926.33,33351.62
+P0422,Accessories Product 422,Electronics,Accessories,246.11,190.32
+P0423,Sportswear Product 423,Sports,Sportswear,3929.19,2184.79
+P0424,Footwear Product 424,Fashion,Footwear,4461.81,2719.47
+P0425,Accessories Product 425,Electronics,Accessories,52302.1,40236.71
+P0426,Home Decor Product 426,Home & Kitchen,Home Decor,656.37,512.42
+P0427,Footwear Product 427,Fashion,Footwear,1287.64,694.21
+P0428,Laptops Product 428,Electronics,Laptops,29925.84,22391.84
+P0429,Equipment Product 429,Sports,Equipment,13557.49,9632.31
+P0430,Women Clothing Product 430,Fashion,Women Clothing,5111.31,4274.91
+P0431,Equipment Product 431,Sports,Equipment,8875.25,5428.53
+P0432,Fitness Product 432,Sports,Fitness,934.25,725.06
+P0433,Sportswear Product 433,Sports,Sportswear,290.0,152.92
+P0434,Makeup Product 434,Beauty,Makeup,54889.94,40078.09
+P0435,Kitchen Product 435,Home & Kitchen,Kitchen,663.02,488.47
+P0436,Kitchen Product 436,Home & Kitchen,Kitchen,1480.54,1243.85
+P0437,Accessories Product 437,Electronics,Accessories,8041.97,6028.01
+P0438,Furniture Product 438,Home & Kitchen,Furniture,24434.93,14706.23
+P0439,Sportswear Product 439,Sports,Sportswear,13006.62,10115.21
+P0440,Fitness Product 440,Sports,Fitness,1150.47,788.18
+P0441,Equipment Product 441,Sports,Equipment,60173.16,35046.7
+P0442,Sportswear Product 442,Sports,Sportswear,1077.24,908.62
+P0443,Fragrance Product 443,Beauty,Fragrance,754.99,464.36
+P0444,Fitness Product 444,Sports,Fitness,1039.23,746.61
+P0445,Smartphones Product 445,Electronics,Smartphones,5409.5,3346.23
+P0446,Equipment Product 446,Sports,Equipment,4963.89,3464.08
+P0447,Women Clothing Product 447,Fashion,Women Clothing,1613.98,1168.13
+P0448,Men Clothing Product 448,Fashion,Men Clothing,1972.56,1079.07
+P0449,Outdoor Product 449,Sports,Outdoor,1299.7,847.17
+P0450,Outdoor Product 450,Sports,Outdoor,25662.52,21405.02
+P0451,Home Decor Product 451,Home & Kitchen,Home Decor,918.1,759.86
+P0452,Fitness Product 452,Sports,Fitness,3198.39,1780.03
+P0453,Audio Product 453,Electronics,Audio,48739.67,24881.78
+P0454,Accessories Product 454,Electronics,Accessories,1861.69,1308.78
+P0455,Outdoor Product 455,Sports,Outdoor,25796.69,12943.31
+P0456,Laptops Product 456,Electronics,Laptops,13727.92,7354.34
+P0457,Laptops Product 457,Electronics,Laptops,1148.65,851.99
+P0458,Haircare Product 458,Beauty,Haircare,11047.76,6524.44
+P0459,Men Clothing Product 459,Fashion,Men Clothing,40802.45,26130.59
+P0460,Bags Product 460,Fashion,Bags,1837.81,933.11
+P0461,Skincare Product 461,Beauty,Skincare,21095.88,14479.54
+P0462,Skincare Product 462,Beauty,Skincare,2389.96,1975.62
+P0463,Audio Product 463,Electronics,Audio,1453.73,1103.85
+P0464,Women Clothing Product 464,Fashion,Women Clothing,1359.18,995.47
+P0465,Laptops Product 465,Electronics,Laptops,5684.87,4448.45
+P0466,Skincare Product 466,Beauty,Skincare,1253.39,804.59
+P0467,Makeup Product 467,Beauty,Makeup,10480.23,7004.72
+P0468,Women Clothing Product 468,Fashion,Women Clothing,698.97,484.83
+P0469,Bags Product 469,Fashion,Bags,1082.85,736.8
+P0470,Skincare Product 470,Beauty,Skincare,313.24,203.05
+P0471,Sportswear Product 471,Sports,Sportswear,596.39,433.15
+P0472,Audio Product 472,Electronics,Audio,4464.22,3354.06
+P0473,Accessories Product 473,Electronics,Accessories,10511.25,8181.97
+P0474,Smartphones Product 474,Electronics,Smartphones,9019.97,7537.66
+P0475,Makeup Product 475,Beauty,Makeup,574.51,342.56
+P0476,Appliances Product 476,Home & Kitchen,Appliances,488.59,281.87
+P0477,Smartphones Product 477,Electronics,Smartphones,892.78,526.86
+P0478,Footwear Product 478,Fashion,Footwear,416.21,282.94
+P0479,Home Decor Product 479,Home & Kitchen,Home Decor,2997.38,2401.15
+P0480,Women Clothing Product 480,Fashion,Women Clothing,5481.31,3114.69
+P0481,Fragrance Product 481,Beauty,Fragrance,822.86,614.41
+P0482,Fragrance Product 482,Beauty,Fragrance,1036.66,844.14
+P0483,Men Clothing Product 483,Fashion,Men Clothing,19926.29,13980.51
+P0484,Bags Product 484,Fashion,Bags,26965.87,16721.58
+P0485,Sportswear Product 485,Sports,Sportswear,564.63,355.92
+P0486,Kitchen Product 486,Home & Kitchen,Kitchen,824.11,511.75
+P0487,Men Clothing Product 487,Fashion,Men Clothing,2017.04,1644.33
+P0488,Skincare Product 488,Beauty,Skincare,39842.04,24442.71
+P0489,Equipment Product 489,Sports,Equipment,27967.97,16870.22
+P0490,Fragrance Product 490,Beauty,Fragrance,5181.92,3015.62
+P0491,Laptops Product 491,Electronics,Laptops,25885.36,18946.41
+P0492,Men Clothing Product 492,Fashion,Men Clothing,467.59,351.65
+P0493,Equipment Product 493,Sports,Equipment,1215.23,958.41
+P0494,Women Clothing Product 494,Fashion,Women Clothing,6687.28,4538.88
+P0495,Furniture Product 495,Home & Kitchen,Furniture,1480.7,754.59
+P0496,Appliances Product 496,Home & Kitchen,Appliances,2384.01,1683.45
+P0497,Outdoor Product 497,Sports,Outdoor,34184.3,20445.7
+P0498,Footwear Product 498,Fashion,Footwear,867.26,599.04
+P0499,Sportswear Product 499,Sports,Sportswear,726.92,404.93
+P0500,Laptops Product 500,Electronics,Laptops,27201.35,13886.28
